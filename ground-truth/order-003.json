@@ -1,0 +1,13 @@
+{
+  "customer_name": "有限会社こだま食品",
+  "order_no": "K-1188",
+  "order_date": "2026-10-20",
+  "delivery_date": "2026-11-10",
+  "ship_to": "有限会社こだま食品 本店",
+  "lines": [
+    { "item_code": "A-1001", "item_name": "緑茶500ml", "quantity": "30", "unit": "ケース", "unit_price": "2400", "amount": "72000" },
+    { "item_code": "D-4002", "item_name": "缶コーヒー微糖185g", "quantity": "60", "unit": "ケース", "unit_price": "2100", "amount": "126000" }
+  ],
+  "total_amount": "198000",
+  "remarks": null
+}

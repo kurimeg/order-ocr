@@ -1,0 +1,103 @@
+{
+  "customer_name": {
+    "value": "合同会社さくらマート",
+    "source_text": "合同会社さくらマート",
+    "concern": null
+  },
+  "order_no": {
+    "value": "SK-0098",
+    "source_text": "No. SK-0098",
+    "concern": null
+  },
+  "order_date": {
+    "value": "2026-10-27",
+    "source_text": "2026/10/27",
+    "concern": null
+  },
+  "delivery_date": {
+    "value": "2026-11-04",
+    "source_text": "2026/11/04",
+    "concern": null
+  },
+  "ship_to": {
+    "value": "合同会社さくらマート 横浜店",
+    "source_text": "合同会社さくらマート 横浜店",
+    "concern": null
+  },
+  "lines": [
+    {
+      "item_code": {
+        "value": "C-3010",
+        "source_text": "C-3010",
+        "concern": null
+      },
+      "item_name": {
+        "value": "スポーツドリンク2L",
+        "source_text": "スポーツドリンク2L",
+        "concern": null
+      },
+      "quantity": {
+        "value": "24",
+        "source_text": "24",
+        "concern": null
+      },
+      "unit": {
+        "value": "ケース",
+        "source_text": "ケース",
+        "concern": null
+      },
+      "unit_price": {
+        "value": "1680",
+        "source_text": "@1,680",
+        "concern": null
+      },
+      "amount": {
+        "value": "40320",
+        "source_text": "40,320円",
+        "concern": null
+      }
+    },
+    {
+      "item_code": {
+        "value": "E-5001",
+        "source_text": "E-5001",
+        "concern": null
+      },
+      "item_name": {
+        "value": "オレンジジュース1L",
+        "source_text": "オレンジジュース1L",
+        "concern": null
+      },
+      "quantity": {
+        "value": "12",
+        "source_text": "12",
+        "concern": null
+      },
+      "unit": {
+        "value": "ケース",
+        "source_text": "ケース",
+        "concern": null
+      },
+      "unit_price": {
+        "value": "1560",
+        "source_text": "@1,560",
+        "concern": null
+      },
+      "amount": {
+        "value": "18720",
+        "source_text": "18,720円",
+        "concern": null
+      }
+    }
+  ],
+  "total_amount": {
+    "value": "59040",
+    "source_text": "59,040円",
+    "concern": null
+  },
+  "remarks": {
+    "value": null,
+    "source_text": null,
+    "concern": null
+  }
+}

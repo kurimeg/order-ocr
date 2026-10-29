@@ -1,0 +1,103 @@
+{
+  "customer_name": {
+    "value": "山田飲料株式会社",
+    "source_text": "山田飲料株式会社",
+    "concern": null
+  },
+  "order_no": {
+    "value": "PO-2026-1015",
+    "source_text": "PO-2026-1015",
+    "concern": null
+  },
+  "order_date": {
+    "value": "2026-10-15",
+    "source_text": "2026年10月15日",
+    "concern": null
+  },
+  "delivery_date": {
+    "value": "2026-11-05",
+    "source_text": "2026年11月5日",
+    "concern": null
+  },
+  "ship_to": {
+    "value": "山田飲料株式会社 東京物流センター",
+    "source_text": "山田飲料株式会社 東京物流センター",
+    "concern": null
+  },
+  "lines": [
+    {
+      "item_code": {
+        "value": "A-1001",
+        "source_text": "A-1001",
+        "concern": null
+      },
+      "item_name": {
+        "value": "緑茶500ml",
+        "source_text": "緑茶500ml",
+        "concern": null
+      },
+      "quantity": {
+        "value": "120",
+        "source_text": "120",
+        "concern": null
+      },
+      "unit": {
+        "value": "ケース",
+        "source_text": "ケース",
+        "concern": null
+      },
+      "unit_price": {
+        "value": "2400",
+        "source_text": "2,400",
+        "concern": null
+      },
+      "amount": {
+        "value": "288000",
+        "source_text": "288,000",
+        "concern": null
+      }
+    },
+    {
+      "item_code": {
+        "value": "A-1002",
+        "source_text": "A-1002",
+        "concern": null
+      },
+      "item_name": {
+        "value": "ほうじ茶500ml",
+        "source_text": "ほうじ茶500ml",
+        "concern": null
+      },
+      "quantity": {
+        "value": "50",
+        "source_text": "50",
+        "concern": null
+      },
+      "unit": {
+        "value": "ケース",
+        "source_text": "ケース",
+        "concern": null
+      },
+      "unit_price": {
+        "value": "2400",
+        "source_text": "2,400",
+        "concern": null
+      },
+      "amount": {
+        "value": "120000",
+        "source_text": "120,000",
+        "concern": null
+      }
+    }
+  ],
+  "total_amount": {
+    "value": "408000",
+    "source_text": "¥408,000",
+    "concern": null
+  },
+  "remarks": {
+    "value": null,
+    "source_text": null,
+    "concern": null
+  }
+}

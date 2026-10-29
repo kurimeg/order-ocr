@@ -1,0 +1,13 @@
+{
+  "customer_name": "山田飲料株式会社",
+  "order_no": "PO-2026-1015",
+  "order_date": "2026-10-15",
+  "delivery_date": "2026-11-05",
+  "ship_to": "山田飲料株式会社 東京物流センター",
+  "lines": [
+    { "item_code": "A-1001", "item_name": "緑茶500ml", "quantity": "120", "unit": "ケース", "unit_price": "2400", "amount": "288000" },
+    { "item_code": "A-1002", "item_name": "ほうじ茶500ml", "quantity": "50", "unit": "ケース", "unit_price": "2400", "amount": "120000" }
+  ],
+  "total_amount": "408000",
+  "remarks": null
+}

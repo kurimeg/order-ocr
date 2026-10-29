@@ -1,0 +1,11 @@
+datetime,file,model,prompt,input_tokens,output_tokens,elapsed_ms
+2026-10-29T06:08:16.549Z,order-001.pdf,gpt-6.1-terra,v1,3930,433,7883
+2026-10-29T06:08:29.210Z,order-002.pdf,gpt-6.1-terra,v1,3976,916,12659
+2026-10-29T06:08:37.782Z,order-003.png,gpt-6.1-terra,v1,3687,558,8571
+2026-10-29T06:08:55.779Z,order-004.png,gpt-6.1-terra,v1,3687,1368,17995
+2026-10-29T06:09:05.934Z,order-005.pdf,gpt-6.1-terra,v1,3879,693,10154
+2026-10-29T06:17:11.190Z,order-001.pdf,gpt-6.1-terra,v2,3987,689,10572
+2026-10-29T06:17:23.112Z,order-002.pdf,gpt-6.1-terra,v2,4033,916,11919
+2026-10-29T06:17:34.177Z,order-003.png,gpt-6.1-terra,v2,3744,803,11063
+2026-10-29T06:17:52.762Z,order-004.png,gpt-6.1-terra,v2,3744,1520,18584
+2026-10-29T06:17:59.298Z,order-005.pdf,gpt-6.1-terra,v2,3936,437,6533

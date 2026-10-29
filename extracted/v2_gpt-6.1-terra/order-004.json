@@ -1,0 +1,199 @@
+{
+  "customer_name": {
+    "value": "北星フーズ株式会社",
+    "source_text": "北星フーズ株式会社",
+    "concern": null
+  },
+  "order_no": {
+    "value": "HF-20261022-01",
+    "source_text": "HF-20261022-01",
+    "concern": null
+  },
+  "order_date": {
+    "value": "2026-10-22",
+    "source_text": "令和8年10月22日",
+    "concern": null
+  },
+  "delivery_date": {
+    "value": "2026-11-12",
+    "source_text": "11月12日（木）",
+    "concern": "年の記載がないため、発注日の年である2026年を補いました。"
+  },
+  "ship_to": {
+    "value": "北星フーズ株式会社 札幌配送センター",
+    "source_text": "北星フーズ株式会社 札幌配送センター",
+    "concern": null
+  },
+  "lines": [
+    {
+      "item_code": {
+        "value": "A-1003",
+        "source_text": "A-1003",
+        "concern": null
+      },
+      "item_name": {
+        "value": "麦茶2L",
+        "source_text": "麦茶2L",
+        "concern": null
+      },
+      "quantity": {
+        "value": "100",
+        "source_text": "100",
+        "concern": null
+      },
+      "unit": {
+        "value": "ケース",
+        "source_text": "ケース",
+        "concern": null
+      },
+      "unit_price": {
+        "value": "1200",
+        "source_text": "1,200",
+        "concern": null
+      },
+      "amount": {
+        "value": "120000",
+        "source_text": "120,000",
+        "concern": null
+      }
+    },
+    {
+      "item_code": {
+        "value": "B-2001",
+        "source_text": "B-2001",
+        "concern": null
+      },
+      "item_name": {
+        "value": "炭酸水500ml",
+        "source_text": "炭酸水500ml",
+        "concern": null
+      },
+      "quantity": {
+        "value": "150",
+        "source_text": "150",
+        "concern": null
+      },
+      "unit": {
+        "value": "ケース",
+        "source_text": "ケース",
+        "concern": null
+      },
+      "unit_price": {
+        "value": "1800",
+        "source_text": "1,800",
+        "concern": null
+      },
+      "amount": {
+        "value": "270000",
+        "source_text": "270,000",
+        "concern": null
+      }
+    },
+    {
+      "item_code": {
+        "value": "C-3001",
+        "source_text": "C-3001",
+        "concern": null
+      },
+      "item_name": {
+        "value": "スポーツドリンク500ml",
+        "source_text": "スポーツドリンク500ml",
+        "concern": null
+      },
+      "quantity": {
+        "value": "90",
+        "source_text": "90",
+        "concern": null
+      },
+      "unit": {
+        "value": "ケース",
+        "source_text": "ケース",
+        "concern": null
+      },
+      "unit_price": {
+        "value": "2160",
+        "source_text": "2,160",
+        "concern": null
+      },
+      "amount": {
+        "value": "194400",
+        "source_text": "194,400",
+        "concern": null
+      }
+    },
+    {
+      "item_code": {
+        "value": "D-4001",
+        "source_text": "D-4001",
+        "concern": null
+      },
+      "item_name": {
+        "value": "缶コーヒーブラック185g",
+        "source_text": "缶コーヒーブラック185g",
+        "concern": null
+      },
+      "quantity": {
+        "value": "70",
+        "source_text": "70",
+        "concern": null
+      },
+      "unit": {
+        "value": "ケース",
+        "source_text": "ケース",
+        "concern": null
+      },
+      "unit_price": {
+        "value": "2100",
+        "source_text": "2,100",
+        "concern": null
+      },
+      "amount": {
+        "value": "147000",
+        "source_text": "147,000",
+        "concern": null
+      }
+    },
+    {
+      "item_code": {
+        "value": "E-5001",
+        "source_text": "E-5001",
+        "concern": null
+      },
+      "item_name": {
+        "value": "オレンジジュース1L",
+        "source_text": "オレンジジュース1L",
+        "concern": null
+      },
+      "quantity": {
+        "value": "45",
+        "source_text": "45",
+        "concern": null
+      },
+      "unit": {
+        "value": "ケース",
+        "source_text": "ケース",
+        "concern": null
+      },
+      "unit_price": {
+        "value": "1560",
+        "source_text": "1,560",
+        "concern": null
+      },
+      "amount": {
+        "value": "70200",
+        "source_text": "70,200",
+        "concern": null
+      }
+    }
+  ],
+  "total_amount": {
+    "value": "801600",
+    "source_text": "801,600",
+    "concern": null
+  },
+  "remarks": {
+    "value": "納品時に検品書を添付してください",
+    "source_text": "納品時に検品書を添付してください",
+    "concern": null
+  }
+}
