@@ -1,0 +1,103 @@
+{
+  "customer_name": {
+    "value": "有限会社こだま食品",
+    "source_text": "有限会社こだま食品",
+    "concern": null
+  },
+  "order_no": {
+    "value": "K-1188",
+    "source_text": "K-1188",
+    "concern": null
+  },
+  "order_date": {
+    "value": "2026-10-20",
+    "source_text": "2026年10月20日",
+    "concern": null
+  },
+  "delivery_date": {
+    "value": "2026-11-10",
+    "source_text": "2026年11月10日",
+    "concern": null
+  },
+  "ship_to": {
+    "value": "有限会社こだま食品 本店",
+    "source_text": "有限会社こだま食品 本店",
+    "concern": null
+  },
+  "lines": [
+    {
+      "item_code": {
+        "value": "A-1001",
+        "source_text": "A-1001",
+        "concern": null
+      },
+      "item_name": {
+        "value": "緑茶500ml",
+        "source_text": "緑茶500ml",
+        "concern": null
+      },
+      "quantity": {
+        "value": "30",
+        "source_text": "20 30",
+        "concern": "20から手書きで30に訂正されています。"
+      },
+      "unit": {
+        "value": "ケース",
+        "source_text": "ケース",
+        "concern": null
+      },
+      "unit_price": {
+        "value": "2400",
+        "source_text": "2,400",
+        "concern": null
+      },
+      "amount": {
+        "value": "72000",
+        "source_text": "48,000 72,000",
+        "concern": "48,000から手書きで72,000に訂正されています。"
+      }
+    },
+    {
+      "item_code": {
+        "value": "D-4002",
+        "source_text": "D-4002",
+        "concern": null
+      },
+      "item_name": {
+        "value": "缶コーヒー微糖185g",
+        "source_text": "缶コーヒー微糖185g",
+        "concern": null
+      },
+      "quantity": {
+        "value": "60",
+        "source_text": "60",
+        "concern": null
+      },
+      "unit": {
+        "value": "ケース",
+        "source_text": "ケース",
+        "concern": null
+      },
+      "unit_price": {
+        "value": "2100",
+        "source_text": "2,100",
+        "concern": null
+      },
+      "amount": {
+        "value": "126000",
+        "source_text": "126,000",
+        "concern": null
+      }
+    }
+  ],
+  "total_amount": {
+    "value": "198000",
+    "source_text": "¥174,000 198,000",
+    "concern": "174,000から手書きで198,000に訂正されています。税抜金額です。"
+  },
+  "remarks": {
+    "value": null,
+    "source_text": null,
+    "concern": null
+  }
+}

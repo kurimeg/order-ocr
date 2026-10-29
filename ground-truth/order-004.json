@@ -1,0 +1,16 @@
+{
+  "customer_name": "北星フーズ株式会社",
+  "order_no": "HF-20261022-01",
+  "order_date": "2026-10-22",
+  "delivery_date": "2026-11-12",
+  "ship_to": "北星フーズ株式会社 札幌配送センター",
+  "lines": [
+    { "item_code": "A-1003", "item_name": "麦茶2L", "quantity": "100", "unit": "ケース", "unit_price": "1200", "amount": "120000" },
+    { "item_code": "B-2001", "item_name": "炭酸水500ml", "quantity": "150", "unit": "ケース", "unit_price": "1800", "amount": "270000" },
+    { "item_code": "C-3001", "item_name": "スポーツドリンク500ml", "quantity": "90", "unit": "ケース", "unit_price": "2160", "amount": "194400" },
+    { "item_code": "D-4001", "item_name": "缶コーヒーブラック185g", "quantity": "70", "unit": "ケース", "unit_price": "2100", "amount": "147000" },
+    { "item_code": "E-5001", "item_name": "オレンジジュース1L", "quantity": "45", "unit": "ケース", "unit_price": "1560", "amount": "70200" }
+  ],
+  "total_amount": "801600",
+  "remarks": "納品時に検品書を添付してください"
+}

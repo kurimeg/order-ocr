@@ -1,0 +1,14 @@
+{
+  "customer_name": "株式会社みどり商事",
+  "order_no": "MS-26-0342",
+  "order_date": "2026-10-16",
+  "delivery_date": "2026-10-30",
+  "ship_to": "株式会社みどり商事 大阪倉庫",
+  "lines": [
+    { "item_code": "B-2001", "item_name": "炭酸水500ml", "quantity": "200", "unit": "ケース", "unit_price": "1800", "amount": "360000" },
+    { "item_code": "B-2005", "item_name": "レモン炭酸水500ml", "quantity": "80", "unit": "ケース", "unit_price": "1950", "amount": "156000" },
+    { "item_code": "C-3010", "item_name": "スポーツドリンク2L", "quantity": "40", "unit": "ケース", "unit_price": "1680", "amount": "67200" }
+  ],
+  "total_amount": "583200",
+  "remarks": "午前中着でお願いします"
+}
